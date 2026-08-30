@@ -1,7 +1,7 @@
 pkgbase = syn-vault
 	pkgdesc = A password-locked folder for your own files: an encrypted vault in userspace
 	pkgver = 0.1.0
-	pkgrel = 4
+	pkgrel = 5
 	url = https://github.com/velle999/SYNAPSE
 	arch = x86_64
 	license = GPL-2.0-or-later
@@ -14,7 +14,7 @@ pkgbase = syn-vault
 	depends = fuse3
 	optdepends = quickshell: the graphical window (syn-vault gui)
 	optdepends = synfiles: opens a vault from the file manager
-	source = syn-vault-0.1.0.tar.gz::https://github.com/velle999/SYNAPSE/releases/download/syn-vault-0.1.0-4/syn-vault-0.1.0.tar.gz
+	source = syn-vault-0.1.0.tar.gz::https://github.com/velle999/syn-vault/releases/download/0.1.0-5/syn-vault-0.1.0.tar.gz
 	sha256sums = SKIP
 
 pkgname = syn-vault
